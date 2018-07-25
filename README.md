@@ -1,4 +1,4 @@
-# Online_exam_New
+# Online Examination System
 Online Examination  System-Has seperate User interface for admin as well as student
 
 To run the project download the following:
