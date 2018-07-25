@@ -1,5 +1,5 @@
 # Online Examination System
-Online Examination  System-Has seperate User interface for admin as well as student
+Online Examination System for students it has a seperate user interface for student as well as admin.
 
 To run the project download the following:
 
@@ -27,4 +27,4 @@ To run the project download the following:
 
 9.Under mst_admin table click on edit and change the name of admin to whatever you want it to be.
 
-8.In order to shift to admin panel in browser,open a new tab and write localhost/your_copied_folder's_name/admin/index.php
+10.In order to shift to admin panel in browser,open a new tab and write localhost/your_copied_folder's_name/admin/index.php
